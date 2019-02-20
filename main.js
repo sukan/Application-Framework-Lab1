@@ -30,7 +30,7 @@ Student.printName();                             //Call function
 
 //Question 03
 
-var vehicleName = "car"                          //
+var vehicleName = "car"                          
 
 function printVehicleName(){
     console.log(this.vehicleName)
