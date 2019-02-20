@@ -53,7 +53,7 @@ function calc(tax) {
         return amount + tax;
     }
 
-    return taxAmount();
+    return taxAmount;
 }
 
 var ans = calc(10);
