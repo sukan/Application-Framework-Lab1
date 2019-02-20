@@ -6,10 +6,14 @@
 
 3. Understand the ‘this’ keyword in JavaScript.    
 
-● Declare a global variable named vehicleName in the window object 
+● Declare a global variable named vehicleName in the window object
+
 ● Declare a method named printVehicleName to print out the vehicle name
+
 ● Declare an object named Vehicle(using object literal notation) which have a variable called vehicleName and declare a function named getVehicleName and assign it with the printVehicleName  
+
 ● Execute the printVehicleName function and the getVehicleName functions to see the results 
+
 ● Correct the getVehicleName to print out the global variable vehicleName using the this keyword    
 
 4. Create a separate function using JavaScript closure which accepts the tax percentage and returns a function which accepts the amount and returns the amount after adding tax percentage. Try adding tax percentage to ‘this’ object and check if it works.   
